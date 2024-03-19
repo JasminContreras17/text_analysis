@@ -1,0 +1,16 @@
+What file would you like to open?
+trump_speech_010621.txt
+What words would you like to look for?
+uh,like, um,so
+
+...............................Analyzing text.................................
+
+Total number of tics: 31
+Density of tics: 0.01
+
+...............................Tic breakdown..................................
+
+uh        / 0                  / 0% of all tics
+like      / 17                 / 55% of all tics
+um        / 0                  / 0% of all tics
+so        / 14                 / 45% of all tics
